@@ -1,19 +1,20 @@
 **Project Title:**
-TBD
+COVID-19's Impact on US Travel Behavior
 
-**Team Members**
+**Team Members:**
 Colin Campbell
 Prina Thaker
 Etienne Dembele
 Mandakini Majumdar
 
+**Project Description:**
+We will be looking at the impact of CDC reported cases, deaths, and vaccination rates on travel behavior in the US, by state. We will look at how the progress of COVID-19 impacted the type, quantity, and frequency of travel beahvior. We will also estimate whether this change in travel behavior appears to be permanent.
 
-
-
-
-# project-1
-COVID Impact on Travel behavior. How did people respond when the pandemic first hit, state by state? Did people with more severe lockdowns travel more or move out of state permanently? Did areas with higher COVID rates experience higher or lower inbound / outbound travel volumes? Did tourist areas get hit by COVID earlier?
-
+**Research Questions:**
+- How quickly did people return to normal pre-COVID travel patterns after achieving certain vaccination thresholds?
+- How much did case rates impact inbound / outbound travel volume (people visiting states vs. leaving COVID-19 hotbeds)
+- 3
+- 4
 
 
 Datasets:
