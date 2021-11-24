@@ -1,14 +1,20 @@
 # project-1
 
 
-Possible Project Ideas:
-- 1
+Healthcare Project Ideas: (healthcare favored)
+- COVID-19 Vaccination Rates and Death Rates
 - 2
 - 3
 - 4
 - 5
 - 6
 
+Finance / Other Project Ideas:
+- Changes in Purchasing Behavior from Economic Events
+- 2
+- 3
+- 4
+- 5
 
 
 
