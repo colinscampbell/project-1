@@ -1,3 +1,16 @@
+**Project Title:**
+TBD
+
+**Team Members**
+Colin Campbell
+Prina Thaker
+Etienne Dembele
+Mandakini Majumdar
+
+
+
+
+
 # project-1
 COVID Impact on Travel behavior. How did people respond when the pandemic first hit, state by state? Did people with more severe lockdowns travel more or move out of state permanently? Did areas with higher COVID rates experience higher or lower inbound / outbound travel volumes? Did tourist areas get hit by COVID earlier?
 
