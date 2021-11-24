@@ -16,7 +16,11 @@ Finance / Other Project Ideas:
 - 4
 - 5
 
-
+Others:
+- Something with opinion polling - views of Americans over time
+- 2
+- 3
+- 4
 
 
 
