@@ -33,5 +33,6 @@ Testing Media Narratives:
 - What impact do lockdowns have?
 **Impact on Behavior:**
 - Aibnb Bookings / Travel Behavior
-- asdf
+- What is the impact on NetFLix, was there any behaviour change?
+- Is there any impact on employment changes? Are people changing jobs for work life balance?
 - asdf
