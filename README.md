@@ -13,13 +13,13 @@ We will be looking at the impact of CDC reported cases, deaths, and vaccination 
 **Research Questions:**
 - How quickly did people return to normal pre-COVID travel patterns after achieving certain vaccination thresholds?
 - How much did case rates impact inbound / outbound travel volume (people visiting states vs. leaving COVID-19 hotbeds)
-- 3
-- 4
+- TBD
+- TBD
 
 
 Datasets:
 - CDC COVID Dataset (time series of cases, deaths, etc. by state and metro area)
-- 
+- Travel Dataset TBD
 
 
 
