@@ -2,7 +2,12 @@
 
 
 Possible Project Ideas:
-
+- 1
+- 2
+- 3
+- 4
+- 5
+- 6
 
 
 
@@ -10,7 +15,12 @@ Possible Project Ideas:
 
 
 Possible Datasets:
-
+- 1
+- 2
+- 3
+- 4
+- 5
+- 6
 
 
 
