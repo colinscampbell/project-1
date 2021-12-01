@@ -21,32 +21,41 @@ Datasets:
 - CDC COVID Dataset (time series of cases, deaths, etc. by state and metro area)
 - Travel Dataset TBD
 
+1. Load data
 
+Data Source:
 
+· 1.United States COVID-19 Cases and Deaths by State over Time o Link : https://data.cdc.gov/Case-Surveillance/United-States-COVID-19-Cases-and-Deaths-by-State-o/9mfq-cb36
 
+o API Endpoint : https://data.cdc.gov/resource/9mfq-cb36.json · https://data.cdc.gov/resource/9mfq-cb36.csv
+
+2. Trips by Distance : Link: https://data.bts.gov/Research-and-Statistics/Trips-by-Distance/w96p-f2qv
+
+API Endpoint : https://data.bts.gov/resource/w96p-f2qv.json https://data.bts.gov/resource/w96p-f2qv.csv
 
 Description of Scope
 
 
+· Merge Covid Case data frame with Travel data frame based on State and Dates (inner join)
 
-OLD::
-**Healthcare Project Ideas: (healthcare favored)**
-- COVID-19 Vaccination Rates and Death Rates (CDC)
-- COVID Impact on Airbnb Bookings, Travel, etc.
-- COVID Impact on Rural Areas (vs. Urban)
-- COVID Impact on Netflix Viewing Behavior
-- COVID Impact on Mental Health
-- COVID Impact on Insurance Purchases
-- Anything NOT COVID?
-- 6
+· Plot correlation between cases and travel patterns (total travel, type of trips)
 
-**Key Questions:**
-Testing Media Narratives:
-- What impact does vaccination have?
-- What impact does mask wearing / mask mandates have?
-- What impact do lockdowns have?
-**Impact on Behavior:**
-- Aibnb Bookings / Travel Behavior
-- What is the impact on NetFLix, was there any behaviour change?
-- Is there any impact on employment changes? Are people changing jobs for work life balance?
-- asdf
+· Plot correlation between death and travel patterns (total travel, type of trips)
+
+· Plot line trends of cases and travel patterns (total travel, type of trips) for given time series
+
+· Plot line trends of deaths and travel patterns (total travel, type of trips) for given time series
+
+· Provide case and travel pattern comparison between states
+
+· Identify highest and lowest impacted states of travel impacts for Covid pandemic
+
+· Use Google heatmap to show impacts by state using intensity numbers of impacts per million
+
+(we can add more)
+
+We can also enhance our scope of work with
+
+1.State wise Vaccination data and Travel data
+
+2.Covid data and unemployment data
