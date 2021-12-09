@@ -1,5 +1,6 @@
 #VSCode
 workspace.code-workspace
+*.csv
 
 #API Keys
 ignore/
